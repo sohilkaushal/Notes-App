@@ -7,7 +7,7 @@ using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
 
-namespace NotesApp
+namespace NotesApp_Android_Assignment_1
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
