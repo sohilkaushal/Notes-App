@@ -14,6 +14,13 @@ The events that are currently implemented are as follows:
 - User is able to view the notes and descriptions. 
 - The app is compatible with both vertical and landscape positions.
 
+## Compilation Instructions
+
+- Open the application in Visual Studio and make sure you have a device plugged in(if using a real device.)
+- Select a device from the top left corner right beside the play button.
+- After selecting the device make press the play button to install the application onto your device. 
+
+
 ## Marking Justification
 
 ### Version Control
@@ -50,4 +57,3 @@ The events that are currently implemented are as follows:
 - I have made sure that I use proper icons for each device sizes and screen resolutions.
 - I have properly deigned screen layouts.
 
-## Update Log
