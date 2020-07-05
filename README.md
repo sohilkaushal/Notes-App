@@ -55,5 +55,5 @@ The events that are currently implemented are as follows:
 
 - I have taken rotation into consideration while designing my application.
 - I have made sure that I use proper icons for each device sizes and screen resolutions.
-- I have properly deigned screen layouts.
+- I have properly designed screen layouts.
 
